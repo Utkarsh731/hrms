@@ -1,2 +1,2 @@
 # hrms
-testing hrms using Spring Boot
+hrms project using SpringBoot
